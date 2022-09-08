@@ -1,0 +1,22 @@
+.accesoFull{ /*input de acceso full*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        
+    }
+
+.fondo{
+    background-color: rgb(209, 209, 203);
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+    
+ }
